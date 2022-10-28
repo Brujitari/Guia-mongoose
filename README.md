@@ -3,7 +3,7 @@
 1- Instalar mongoose [npm](https://www.npmjs.com/package/mongoose)
 
 ```
-npm install mongoose --save
+npm i mongoose
 ```
 
 2- Crear una conexión a mongoose en `configs/db.js`
